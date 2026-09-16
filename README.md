@@ -31,5 +31,4 @@ from the initial idea and user research to the application and final pitch.
 
 ## 📫 Get in touch
 
-- [LinkedIn](YOUR_LINKEDIN)
 - [Email](mailto:adi.manoil@outlook.com)
