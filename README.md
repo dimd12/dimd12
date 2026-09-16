@@ -4,8 +4,8 @@ Computer Science & Engineering student at **TU/e**, originally from
 Moldova and educated in Romania.
 
 I'm interested in **software engineering, backend development, and systems**.
-Most of my development experience so far has been in Java, from teaching
-Java to building web applications with Java EE.
+Most of my experience so far has been with Java — from teaching it to
+students to building web applications from the ground up.
 
 ## What I'm working with
 
@@ -16,12 +16,12 @@ Java to building web applications with Java EE.
 
 ## What I'm building
 
-I'm currently expanding beyond my Java EE background into modern backend
-development, with **Spring Boot, REST APIs, testing, and Docker** next on
-the list.
+I'm currently taking my Java background further into modern backend
+development, with **Spring Boot, REST APIs, testing, and Docker** next.
 
-I'm also interested in the boundary between software and hardware, and
-plan to explore **systems and embedded development** during my CSE degree.
+I'm also curious about what happens closer to the machine. As I progress
+through CSE, I want to explore **systems, embedded development, and the
+intersection between software and hardware**.
 
 ## Projects
 
@@ -29,9 +29,11 @@ plan to explore **systems and embedded development** during my CSE degree.
 
 [Repository](https://github.com/dimd12/Shark)
 
-A peer-to-peer learning platform I designed and developed independently.
-I handled the project end-to-end, including the application, database,
-user research, business concept, and final presentation.
+A peer-to-peer learning platform I designed and developed independently,
+from the initial idea all the way to the final presentation.
+
+I handled the project end-to-end: application development, database
+design, user research, business development, and the final pitch.
 
 Built with **Java EE, Servlets, JSP, JDBC, MySQL, Maven and Tomcat**.
 
@@ -40,8 +42,12 @@ The project received an **Honorable Mention** at the Hardcore Entrepreneur
 
 ## Outside of code
 
-I also teach Java and JavaFX to secondary-school students and have
-experience chairing Model UN and parliamentary simulations.
+When I'm not studying or building something, I teach **Java and JavaFX**
+to secondary-school students.
+
+I've also spent time chairing **Model UN and parliamentary simulations**,
+which has given me plenty of practice with public speaking, moderation,
+and explaining complicated ideas to other people.
 
 ## Find me
 
