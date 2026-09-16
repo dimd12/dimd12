@@ -40,15 +40,6 @@ Built with **Java EE, Servlets, JSP, JDBC, MySQL, Maven and Tomcat**.
 The project received an **Honorable Mention** at the Hardcore Entrepreneur
 5.0 Hackathon.
 
-## Outside of code
-
-When I'm not studying or building something, I teach **Java and JavaFX**
-to secondary-school students.
-
-I've also spent time chairing **Model UN and parliamentary simulations**,
-which has given me plenty of practice with public speaking, moderation,
-and explaining complicated ideas to other people.
-
 ## Find me
 
 [Email](mailto:adi.manoil@outlook.com)
