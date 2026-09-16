@@ -45,4 +45,4 @@ experience chairing Model UN and parliamentary simulations.
 
 ## Find me
 
-[LinkedIn](YOUR_LINKEDIN) · [Email](mailto:adi.manoil@outlook.com)
+[Email](mailto:adi.manoil@outlook.com)
