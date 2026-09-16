@@ -1,34 +1,48 @@
-# Hi, I'm Adrian 👋
+# Adrian Manoil
 
-I'm a Computer Science & Engineering student at **TU/e** interested in
-**software engineering, backend development, and systems**.
+Computer Science & Engineering student at **TU/e**, originally from
+Moldova and educated in Romania.
 
-I enjoy building things in Java and figuring out how the pieces behind
-applications actually fit together.
+I'm interested in **software engineering, backend development, and systems**.
+Most of my development experience so far has been in Java, from teaching
+Java to building web applications with Java EE.
 
-## 🔧 What I work with
+## What I'm working with
 
-**Currently:**  
-Java · Java EE · SQL · MySQL · Git · Maven · Tomcat · Linux
+**Languages:** Java, SQL, HTML/CSS  
+**Backend:** Java EE, Servlets, JSP, JDBC  
+**Tools:** Git, Maven, Apache Tomcat, MySQL  
+**Other:** JavaFX, Linux
 
-**Learning next:**  
-Spring Boot · REST APIs · testing · Docker
+## What I'm building
 
-## 🚀 Projects
+I'm currently expanding beyond my Java EE background into modern backend
+development, with **Spring Boot, REST APIs, testing, and Docker** next on
+the list.
+
+I'm also interested in the boundary between software and hardware, and
+plan to explore **systems and embedded development** during my CSE degree.
+
+## Projects
 
 ### EduMentor
-A peer-to-peer learning platform I designed and built independently,
-from the initial idea and user research to the application and final pitch.
 
-→ [View the project](https://github.com/dimd12/Shark)
+[Repository](https://github.com/dimd12/Shark)
 
-## 🎓 About
+A peer-to-peer learning platform I designed and developed independently.
+I handled the project end-to-end, including the application, database,
+user research, business concept, and final presentation.
 
-- 🧑‍💻 CSE @ TU/e
-- ☕ Java developer & programming trainer
-- 🛠️ Interested in backend and software engineering
-- 🔬 Exploring systems and embedded development
+Built with **Java EE, Servlets, JSP, JDBC, MySQL, Maven and Tomcat**.
 
-## 📫 Get in touch
+The project received an **Honorable Mention** at the Hardcore Entrepreneur
+5.0 Hackathon.
 
-- [Email](mailto:adi.manoil@outlook.com)
+## Outside of code
+
+I also teach Java and JavaFX to secondary-school students and have
+experience chairing Model UN and parliamentary simulations.
+
+## Find me
+
+[LinkedIn](YOUR_LINKEDIN) · [Email](mailto:adi.manoil@outlook.com)
