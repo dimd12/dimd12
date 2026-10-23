@@ -42,4 +42,4 @@ The project received an **Honorable Mention** at the Hardcore Entrepreneur
 
 ## Find me
 
-[Email](mailto:adi.manoil@outlook.com)
+[Email: adi.manoil@outlook.com](mailto:adi.manoil@outlook.com)
