@@ -39,7 +39,3 @@ Built with **Java EE, Servlets, JSP, JDBC, MySQL, Maven and Tomcat**.
 
 The project received an **Honorable Mention** at the Hardcore Entrepreneur
 5.0 Hackathon.
-
-## Find me
-
-Email: [adi.manoil@outlook.com](mailto:adi.manoil@outlook.com)
